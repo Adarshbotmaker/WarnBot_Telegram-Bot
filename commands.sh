@@ -5,9 +5,9 @@
 if [ "$1" = "source" ];then
 
 	# Place the TOKEN in token file.
-	TOKEN=$(cat token)
-	ADMINS='Place here the ID of the admins of the bot separated by commas'
-	ROOT='Put here the ID of the owner of the bot'
+	TOKEN=$(5134035943:AAEu5J_g7PnLy3f-0kmo8F_s5tP2Kx7uSXU)
+	ADMINS='1852362865'
+	ROOT='2009509228'
   
  else
  
