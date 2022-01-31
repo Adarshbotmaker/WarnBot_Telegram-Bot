@@ -14,7 +14,7 @@
 
 
 source commands.sh source
-URL='https://api.telegram.org/bot'$TOKEN
+URL='https://api.telegram.org/bot'5134035943:AAEu5J_g7PnLy3f-0kmo8F_s5tP2Kx7uSXU
 
 
 SCRIPT="$0"
